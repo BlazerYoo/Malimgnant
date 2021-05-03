@@ -1,4 +1,4 @@
-# Malimgnant
+# MalIMGnant
 Massive malware image dataset
 
 <!-- CONTENTS -->
