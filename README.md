@@ -7,7 +7,7 @@ Massive malware image dataset
   <ol>
     <li><a href="#img_gen">img_gen</a></li>
     <li><a href="#microsoft-malware-classification-challenge">Microsoft Malware Classification Challenge</a></li>
-    <li><a href="#VirusShare">VirusShare</a></li>
+    <li><a href="#virusshare">VirusShare</a></li>
   </ol>
 </details>
 
