@@ -1,2 +1,2 @@
 # Malimgnant
- Massive malware image dataset
+Massive malware image dataset
